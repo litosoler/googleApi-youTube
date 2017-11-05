@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+}
+main{
+	width: 60%;
+    margin: 0px auto;
+}
+
+img{
+	width: 32%;
+	margin: 5px;
+	height: 160px;
+}
